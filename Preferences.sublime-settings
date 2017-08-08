@@ -1,0 +1,15 @@
+{
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/User/SublimeLinter/MonokaiGray (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"spacegray_fileicons": true,
+	"tab_size": 2,
+	"theme": "Boxy Tomorrow.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Ansible",
+		"ApplySyntax",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Git",
+		"Groovy Snippets",
+		"MarkdownEditing",
+		"Material Theme",
+		"Monokai - Spacegray",
+		"Monokai Gray",
+		"Package Control",
+		"Pretty JSON",
+		"Puppet",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-shellcheck",
+		"Terminal",
+		"Terraform",
+		"Theme - SoDaReloaded",
+		"Theme - Spacegray",
+		"Whitespace",
+		"Wombat Theme"
+	]
+}
