@@ -1,12 +1,21 @@
 {
 	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/MonokaiGray (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
+	"find_selected_text": true,
 	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"indent_guide_options":
+    [
+        "draw_normal",
+        "draw_active"
+    ],
+	"scroll_past_end": true,
 	"spacegray_fileicons": true,
 	"tab_size": 2,
 	"theme": "Boxy Tomorrow.sublime-theme",
