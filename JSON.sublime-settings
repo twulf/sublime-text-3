@@ -1,5 +1,6 @@
 {
-	"extensions":
+	"color_scheme": "Packages/User/SublimeLinter/Monokai JSON+ (SL).tmTheme",
+  "extensions":
 	[
 		".eslintrc",
 		".jshintrc",
