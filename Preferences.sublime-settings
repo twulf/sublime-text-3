@@ -11,10 +11,10 @@
 		"Vintage"
 	],
 	"indent_guide_options":
-    [
-        "draw_normal",
-        "draw_active"
-    ],
+	[
+		"draw_normal",
+		"draw_active"
+	],
 	"scroll_past_end": true,
 	"spacegray_fileicons": true,
 	"tab_size": 2,
