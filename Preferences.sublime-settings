@@ -8,6 +8,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Puppet",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -15,6 +16,7 @@
 		"draw_normal",
 		"draw_active"
 	],
+	"preview_on_click": false,
 	"scroll_past_end": true,
 	"spacegray_fileicons": true,
 	"tab_size": 2,
