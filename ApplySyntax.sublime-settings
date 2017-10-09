@@ -30,6 +30,12 @@
         ]
       },
       {
+        "name": "Groovy/Groovy",
+        "rules": [
+          {"file_path": ".*Jenkinsfile*"},
+        ]
+      },
+      {
         "name": "Puppet/Syntaxes/Puppet",
         "rules": [
           {"file_name": ".*.pp$"},
