@@ -1,0 +1,10 @@
+{
+	"extensions":
+	[
+		"ini.dist",
+		".gitconfig",
+		".npmrc",
+		".gitignore",
+		".gitattributes"
+	]
+}
