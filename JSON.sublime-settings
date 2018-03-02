@@ -1,12 +1,11 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai JSON+ (SL).tmTheme",
-  "extensions":
+	"extensions":
 	[
-		".eslintrc",
-		".jshintrc",
-		"geojson",
+		".jscsrc",
 		".csslintrc",
 		".bowerrc",
-		".jscsrc"
+		".eslintrc",
+		"geojson",
+		".jshintrc"
 	]
 }
