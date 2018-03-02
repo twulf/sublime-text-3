@@ -1,7 +1,7 @@
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/MonokaiGray (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Flatland Dark (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,
 	"highlight_line": true,
@@ -20,7 +20,7 @@
 	"scroll_past_end": true,
 	"spacegray_fileicons": true,
 	"tab_size": 2,
-	"theme": "Boxy Tomorrow.sublime-theme",
+	"theme": "Flatland Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
