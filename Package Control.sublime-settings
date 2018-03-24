@@ -15,8 +15,11 @@
 		"Crontab Syntax",
 		"Git",
 		"Groovy Snippets",
+		"Indent XML",
 		"INI",
+		"JSON Key-Value",
 		"MarkdownEditing",
+		"MarkdownHighlighting",
 		"Material Theme",
 		"Monokai - Spacegray",
 		"Monokai Gray",
@@ -37,6 +40,7 @@
 		"Theme - Soda",
 		"Theme - SoDaReloaded",
 		"Theme - Spacegray",
+		"TypeScript",
 		"Whitespace",
 		"Wombat Theme"
 	]
